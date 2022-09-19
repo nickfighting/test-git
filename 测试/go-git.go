@@ -8,7 +8,7 @@ func t()  {
 	fmt.Println("just a test new push")
 	fmt.Println("just a test new pull")
 	fmt.Println("just two test new push")
-	fmt.Println("xxx")
+	fmt.Println("xxxyyy")
 
 
 }
